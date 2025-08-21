@@ -2,7 +2,7 @@ import { NavLink, Outlet } from "react-router"
 
 const MainLayout = () => {
   return (
-    <div className="flex flex-col bg-zinc-950 text-white h-screen overflow-hidden font-[gilroy] relative">
+    <div className="flex flex-col bg-zinc-950 text-white h-dvh overflow-hidden font-[gilroy] relative">
       
       {/* Header */}
       <header className="sticky top-0 z-10 border-b border-white/10 bg-zinc-950/80 backdrop-blur-md px-8 py-4 flex items-center justify-between">
